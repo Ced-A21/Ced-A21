@@ -1,5 +1,7 @@
+<p align="center">
+  ### Languages and Tools:
+</p>
 
-### Languages and Tools:
 <p align="center">
   <img width="50" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
   <img width="50"img width="200" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
