@@ -1,5 +1,5 @@
-<p align="center">
-  ### Languages and Tools:
+<p align="center" font-weight:bold>
+  Languages and Tools:
 </p>
 
 <p align="center">
