@@ -19,3 +19,4 @@
 
 ---
 <img align="left" alt="Ced-A21's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Ced-A21&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ced-A21&layout=compact)](https://github.com/Ced-A21/github-readme-stats)
