@@ -1,6 +1,6 @@
-<p align="center" width="50" font-weight="bold">
+<header align="center">
   Languages and Tools:
-</p>
+</header>
 
 <p align="center">
   <img width="50" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
