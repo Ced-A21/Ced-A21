@@ -19,4 +19,4 @@
 
 ---
 <img align="left" alt="Ced-A21's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Ced-A21&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-<img align="left" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ced-A21&layout=compact&theme=onedark&hide_border=true&title_color=58A6FF&icon_color=1F6FEB&text_color=C3D1D9&bg_color=0D1117" />
+<img align="left" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ced-A21&layout=compact&theme=onedark&hide_border=true&hide=ruby,shell&title_color=58A6FF&icon_color=1F6FEB&text_color=C3D1D9&bg_color=0D1117" />
