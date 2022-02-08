@@ -1,4 +1,4 @@
-<p align="center" font-weight:bold>
+<p align="center" width="50" font-weight="bold">
   Languages and Tools:
 </p>
 
