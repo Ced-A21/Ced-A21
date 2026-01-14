@@ -18,8 +18,7 @@
   <img width="50" alt="Tailwind CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
   <img width="50" alt="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
 
-  <br/><br/>
-
+  <br/>
   <!-- BACKEND -->
   <strong>Backend</strong><br/>
   <img width="50" alt="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
@@ -29,14 +28,12 @@
   <img width="50" alt="Kotlin" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
   <img width="50" alt="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 
-  <br/><br/>
-
+  <br/>
   <!-- DATABASE -->
   <strong>Database</strong><br/>
   <img width="50" alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 
-  <br/><br/>
-
+  <br/>
   <!-- INFRA / DEPLOYMENT / CI/CD -->
   <strong>Infra / Deployment / CI/CD</strong><br/>
   <img width="50" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -52,6 +49,7 @@
 
 
 ---
+
 
 
 
