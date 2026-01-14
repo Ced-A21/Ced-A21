@@ -34,10 +34,11 @@
 <br />
 <br />
 <div>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ced-A21&show_icons=true&theme=radical)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ced-A21)](https://github.com/Ced-A21/github-readme-stats)
 </div>
 
 ---
+
 
 
 
